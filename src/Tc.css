@@ -1,0 +1,121 @@
+.tc {
+    width: 100%;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 20px;
+    background:white;
+    color: #fff;
+    height: 39rem;
+}
+.pravicypoly{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.wholetxt{
+    text-align: justify;
+    color: black;
+}
+.thrdtxt{
+    text-align: justify;
+}
+.txtprvc{
+    margin-left:-.1rem;
+}
+.pravicypolytxt{
+    text-align: justify;
+    color: black;
+    margin-top: 4rem;
+}
+.tcshpngplc{
+    width: 100%;
+    margin: 1px auto;
+    border-radius: 20px;
+    padding: 20px;
+    background:#fff;
+    color: #fff;
+  height: 60rem;
+
+}
+.termhead{
+    text-align: center;
+}
+.cancetc{
+    width: 100%;
+    margin: 1px auto;
+    border-radius: 20px;
+    padding: 20px;
+    background: #fff;
+    color: #fff;
+  height: 60rem;
+}
+.canelhead{
+    text-align: center;
+    text-decoration: none;
+}
+.refundpoly{
+    text-align: center;
+}
+.tcref{
+    width: 100%;
+    margin: 1px auto;
+    border-radius: 20px;
+    padding: 20px;
+    background:white;
+    color: #fff;
+  height: 60rem;
+}
+.Shipping{
+    text-align: center;
+}
+.tcprvc{
+    width: 100%;
+    margin: 1px auto;
+    border-radius: 20px;
+    padding: 20px;
+    background:white;
+    color: #fff;
+  height: 60rem;
+}
+
+.tc > h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px;
+}
+
+.terms{
+  
+    margin-top: 3rem;
+    font-size: 1.3rem !important;
+    font-family: sans-serif roboto;
+    text-align: center;
+}
+    
+.tc > p {
+    line-height: 1.5;
+    font-size: 1.1rem;
+    word-break: normal;
+    word-wrap: break-word;
+}
+
+.tc_bullets {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+.tc > h2 {
+    font-size: 2rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.tc > h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,94 @@
+#signupBtn {
+    background: linear-gradient(to right, #009292, #1d5871);
+}
+
+#signupBtn:hover {
+    background: linear-gradient(to right, #1d5871, #009292);
+}
+
+.custom_resendBtn {
+    color: #1d5871;
+}
+
+.otpver-textBox {
+    border: 1px solid #1d5871;
+}
+
+.otpver_mainBox {
+    border: 1px solid #1d5871;
+    box-shadow: 0 0 10px #009292;
+}
+
+.afterjoin_mainBox {
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    margin-top: 10vh;
+    background: linear-gradient(to right, #009292, #1d5871);
+    border-radius: 20px;
+    padding: 30px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    /* border: 2px solid black;  */
+}
+
+.afterjoin_h1tags {
+    width: 80%;
+}
+
+.afterjoin_mainBox h1 {
+    font-size: 1.3rem;
+}
+
+.afterjoin_h1tags h1:last-child() {
+    font-size: 1.2rem;
+}
+
+.afterjoin_button {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: #1d5871;
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+.afterjoin_button:hover {
+    background-color: rgb(220, 220, 220);
+    color: #009292;
+}
+
+.afterjoin_img {
+    width: 75%;
+}
+
+@media only screen and (max-width: 600px) {
+    .otpver_mainBox {
+        width: 90vw;
+        margin-top: 100px;
+    }
+
+    .afterjoin_mainBox {
+        width: 90%;
+        height: 80vh;
+        margin-top: 10vh;
+        position: relative;
+    }
+
+    .afterjoin_mainBox > h1:last-child {
+        font: size 1rem;
+    }
+
+    .afterjoin_button {
+        position: absolute;
+        bottom: 10%;
+        left: 20%;
+        width: 60%;
+    }
+}

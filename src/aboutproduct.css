@@ -1,0 +1,26 @@
+summary {
+    font-size: 20px;
+    color: #f4f4f6;
+    display: flex;
+    margin-left: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    
+  }
+  .faqaboutprodctdtl{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+  }
+  .summaryy{
+    color: black;
+  }
+  .questionsfaq{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+    font-family: sans-serif;
+  }
+  .faq-section{
+    margin-top: 3.5rem;
+  }
